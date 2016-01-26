@@ -1,0 +1,13 @@
+{
+    "name": "rafael/my-search",
+    "require": {
+        "aws/aws-sdk-php": "^3.14",
+        "vlucas/phpdotenv": "^2.2"
+    },
+    "authors": [
+        {
+            "name": "Rafael Testa",
+            "email": "rafael@jp7.com.br"
+        }
+    ]
+}
